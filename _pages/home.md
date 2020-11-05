@@ -7,8 +7,7 @@ permalink: /
 ---
 
 We are a research group at the [Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP](https://www.iag.usp.br/). Our aim is to explore and understand the history of the formation of our Galaxy.
-![image](/images/Galactic_Archaelogy2.jpeg){: style="float: left; margin-right: 10em;"}
-
+<img align="right" src="/images/Galactic_Archaelogy2.jpeg">
 
 From the dynamical and chemical properties of the stars we can rebuild the history of formation of our Galaxy. For more information on why and how (see [Research](research)).
 
