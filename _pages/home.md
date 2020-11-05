@@ -12,6 +12,6 @@ We are a dynamic research group at the [Instituto de Astronomia, Geofísica e Ci
 
 
 
-From the dynamical and chemical properties of the stars we can rebuild the history of formation of our Galaxy. For more information of why and how (see [Research](research)).
+From the dynamical and chemical properties of the stars we can rebuild the history of formation of our Galaxy. For more information on why and how (see [Research](research)).
 
 We are located at [Universidade de São Paulo](https://www5.usp.br/).
