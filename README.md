@@ -1,6 +1,8 @@
 ## My website forked from Allan Lab
 
-# Allan Lab Website
+# Galactic Archaelogy Website
+
+Original README:
 
 This is the website of our academic research group at Leiden University.
 
