@@ -1,4 +1,4 @@
-## My website forked from Allan Lab
+## My version of the website forked from Allan Lab
 
 # Galactic Archaelogy Website
 
