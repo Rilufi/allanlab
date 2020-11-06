@@ -11,4 +11,4 @@ We are a research group at the [Instituto de Astronomia, Geofísica e Ciências 
 
 From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way. For more information on why and how see [Research](research).
 
-We are located at [Universidade de São Paulo](https://www5.usp.br/) with collaborators from all around the world (and also some team members scattered around Brazil, see [Team](team)).
+We are located at [Universidade de São Paulo](https://www5.usp.br/) with collaborators from all around the world (and also some team members scattered around Brazil, see [Team](team) to see who we are).
