@@ -78,7 +78,7 @@ Jump to [staff](#staff), [collaborators](#collaborators).
 
 ## Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.collaborators %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
