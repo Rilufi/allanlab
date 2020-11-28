@@ -1,6 +1,6 @@
 - name: Silvia Rossi
   photo: Silvia_Rossi.jpeg
-  info: Associate Professor
+  info: Associate Professor at Universidade de São Paulo
   email: silvia.rossi@iag.usp.br
   number_educ: 0
   education1:  
@@ -11,9 +11,9 @@
 
 - name: Angeles Pérez-Villegas
   photo: Angeles_Perez.jpeg
-  info:
+  info: Associate Professor at Universidad Nacional Autónoma de México
   email: angelespv@gmail.com
-  number_educ: 3
+  number_educ: 0
   education1: 
   education2: 
   education3: 
