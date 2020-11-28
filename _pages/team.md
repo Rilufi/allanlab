@@ -6,12 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team
 
 
-Jump to [staff](#staff), [collaborators](#collaborators).
+Jump to [Group Members](#Group Members), [Collaborators](#Collaborators).
 
-## Staff
+## Group Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
