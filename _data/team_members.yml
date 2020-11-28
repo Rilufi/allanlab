@@ -18,22 +18,22 @@
   education2: 
   education3: 
 
-- name: Hélio D. Perottoni
-  photo: Hélio.jpg
-  info:
-  email: hperottoni@gmail.com
-  number_educ: 2
-  education1:
-  education2: 
-  
 - name: Rafael M. Santucci
   photo: Rafa.png
-  info: 
+  info: Associate Professor at Universidade Federal de Goiás
   email: rafaelsantucci@ufg.br
-  number_educ: 2
+  number_educ: 0
   education1: 
   education2: 
 
+- name: Hélio D. Perottoni
+  photo: Hélio.jpg
+  info: Postdoc at Universidade de São Paulo
+  email: hperottoni@gmail.com
+  number_educ: 0
+  education1:
+  education2: 
+  
 - name: Guilherme Limberg
   photo: Gui.jpg
   info: 
