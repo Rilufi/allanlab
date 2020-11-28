@@ -1,6 +1,6 @@
 - name: Silvia Rossi
   photo: Silvia_Rossi.jpeg
-  info: Associate Professor at Universidade de São Paulo
+  info: Associate Professor at USP
   email: silvia.rossi@iag.usp.br
   number_educ: 0
   education1:  
@@ -11,7 +11,7 @@
 
 - name: Angeles Pérez-Villegas
   photo: Angeles_Perez.jpeg
-  info: Associate Professor at Universidad Nacional Autónoma de México
+  info: Associate Professor at UNAM
   email: angelespv@gmail.com
   number_educ: 0
   education1: 
@@ -20,7 +20,7 @@
 
 - name: Rafael M. Santucci
   photo: Rafa.png
-  info: Associate Professor at Universidade Federal de Goiás
+  info: Associate Professor at UFG
   email: rafaelsantucci@ufg.br
   number_educ: 0
   education1: 
@@ -28,7 +28,7 @@
 
 - name: Hélio D. Perottoni
   photo: Hélio.jpg
-  info: Postdoc at Universidade de São Paulo
+  info: Postdoc at USP
   email: hperottoni@gmail.com
   number_educ: 0
   education1:
@@ -36,9 +36,9 @@
   
 - name: Guilherme Limberg
   photo: Gui.jpg
-  info: 
+  info: PhD student at USP
   email: guilherme.limberg@usp.br
-  number_educ: 2
+  number_educ: 0
   education1: 
   education2: 
   education3:
@@ -47,7 +47,7 @@
   photo: Yuri_SAB.jpg
   info: 
   email: yuri.abuchaim@gmail.com
-  number_educ: 2
+  number_educ: 0
   education1:
   education2:
   education3:
