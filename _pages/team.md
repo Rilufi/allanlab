@@ -9,7 +9,7 @@ permalink: /team/
 # Team
 
 
-Jump to [Group Members](#Group_Members), [Collaborators](#Collaborators), [Alumni Students](#Alumni_Students)
+Jump to [Group Members](#group-members), [Collaborators](#collaborators), [Alumni Students](#alumni-students)
 
 ## Group Members
 {% assign number_printed = 0 %}
