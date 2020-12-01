@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 # Research
-
+<div style="text-align: justify">
 ## Study object
 
 The most metal-poor stars in the Galactic halo carry important information about the formation and early evolution of the chemistry in the early Universe, as well as in the assembly of the Milky Way. Two subclasses are of great interest: 
@@ -29,4 +29,5 @@ Answers to these and other questions require more detailed constraints than can 
 
 ## Why?
 
-Understanding our origin is a central theme for much of contemporary research, covering a wide range of scientific endeavors, and a subject of enormous interest to society as a whole. With the recent confirmation that NSMs provide at least a portion of the heavy elements associated with the r-process, which are eventually incorporated into stars such as the Sun, and planets such as Earth, researchers and the public alike are anxious to learn more about the origin of the elements, and where and when they were created. 
+Understanding our origin is a central theme for much of contemporary research, covering a wide range of scientific endeavors, and a subject of enormous interest to society as a whole. With the recent confirmation that NSMs provide at least a portion of the heavy elements associated with the r-process, which are eventually incorporated into stars such as the Sun, and planets such as Earth, researchers and the public alike are anxious to learn more about the origin of the elements, and where and when they were created.
+</div>
