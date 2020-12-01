@@ -1,7 +1,7 @@
 ---
-title: "Galactic Archaelogy - Pictures"
+title: "Galactic Archaeology - Pictures"
 layout: piclay
-excerpt: "Pictures from the Galactic Archaelogy Research Group"
+excerpt: "Pictures from the Galactic Archaeology Research Group"
 permalink: /pictures/
 ---
 
