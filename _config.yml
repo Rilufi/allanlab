@@ -7,7 +7,7 @@
 
 # Site settings
 title: Galactic Archaelogy
-email: your-email@domain.com
+email: yuri.abuchaim@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Galactic Archaelogy Research Group Website at the Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG/USP). Our aim is to explore and understand the history of formation of our Galaxy.
   From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way.
@@ -45,3 +45,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+# Google Analytics
+google_analytics: G-765SR6D2B1
