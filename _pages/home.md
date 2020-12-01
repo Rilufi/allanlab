@@ -5,7 +5,7 @@ excerpt: "Galactic Archaelogy Research Group website"
 sitemap: false
 permalink: /
 ---
-<div style="text-align: justify"> your-text-here </div>
+<div style="text-align: justify">
 
 
 <img align="right"  width="500" height="500" src="/images/Galactic_Archaelogy2.jpeg">
