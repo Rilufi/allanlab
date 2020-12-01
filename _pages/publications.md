@@ -1,7 +1,7 @@
 ---
-title: "Galactic Archaelogy - Publications"
+title: "Galactic Archaeology - Publications"
 layout: gridlay
-excerpt: "Current Publications from the Galactic Archaelogy Research Group."
+excerpt: "Current Publications from the Galactic Archaeology Research Group."
 sitemap: false
 permalink: /publications/
 ---
