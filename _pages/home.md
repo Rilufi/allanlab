@@ -5,6 +5,8 @@ excerpt: "Galactic Archaelogy Research Group website"
 sitemap: false
 permalink: /
 ---
+<div style="text-align: justify"> your-text-here </div>
+
 
 <img align="right"  width="500" height="500" src="/images/Galactic_Archaelogy2.jpeg">
 We are a research group at the [Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP](https://www.iag.usp.br/). Our aim is to explore and understand the history of formation of our Galaxy.
@@ -12,3 +14,5 @@ We are a research group at the [Instituto de Astronomia, Geofísica e Ciências 
 From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way. For more information on why and how see [Research](research).
 
 We are located at [Universidade de São Paulo](https://www5.usp.br/) with collaborators from all around the world (and also some team members scattered around Brazil, see [Team](team) to find out who we are).
+
+</div>
