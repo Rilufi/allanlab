@@ -1,5 +1,5 @@
 ---
-title: "Galactic Archaelogy - Research"
+title: "Galactic Archaeology - Research"
 layout: textlay
 excerpt: "A briefing description about our Research"
 sitemap: false
