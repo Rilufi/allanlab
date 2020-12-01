@@ -1,7 +1,7 @@
 ---
-title: "Galactic Archaelogy - Home"
+title: "Galactic Archaeology - Home"
 layout: homelay
-excerpt: "Galactic Archaelogy Research Group website"
+excerpt: "Galactic Archaeology Research Group website"
 sitemap: false
 permalink: /
 ---
