@@ -1,6 +1,6 @@
 ## My version of the website forked from Allan Lab
 
-# Galactic Archaelogy Website
+# Galactic Archaeology Website
 
 Original README:
 
