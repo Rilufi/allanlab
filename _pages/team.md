@@ -1,7 +1,7 @@
 ---
-title: "Galactic Archaelogy - Team"
+title: "Galactic Archaeology - Team"
 layout: gridlay
-excerpt: "Galactic Archaelogy: Team members"
+excerpt: "Team members, collaborators and alumni from the Galactic Archaeology Research Group"
 sitemap: false
 permalink: /team/
 ---
