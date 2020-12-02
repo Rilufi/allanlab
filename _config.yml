@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Galactic Archaelogy Research Group Website at the Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG/USP). Our aim is to explore and understand the history of formation of our Galaxy.
   From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way.
 baseurl: ""
-url: ""
+url: "https://rilufi.github.io"
 
 include:
   - .htaccess
