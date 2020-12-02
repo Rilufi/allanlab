@@ -23,6 +23,7 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Conversion
 markdown: kramdown
