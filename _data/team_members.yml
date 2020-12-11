@@ -13,8 +13,8 @@
   photo: Angeles_Perez.jpeg
   info: Associate Professor at UNAM
   email: angelespv@gmail.com
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-5974-3998">ORCID</a>
   education2: 
   education3: 
 
@@ -22,24 +22,24 @@
   photo: Rafa.png
   info: Associate Professor at UFG
   email: rafaelsantucci@ufg.br
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-7529-1442">ORCID</a>
   education2: 
 
 - name: Hélio D. Perottoni
   photo: Hélio.jpg
   info: Postdoc at USP
   email: hperottoni@gmail.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-0537-4146">ORCID</a>
   education2: 
   
 - name: Guilherme Limberg
   photo: Gui.jpg
   info: PhD student at USP
   email: guilherme.limberg@usp.br
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-9269-8287">ORCID</a>
   education2: 
   education3:
 
@@ -47,8 +47,8 @@
   photo: Yuri_SAB.jpg
   info: (coming soon as) Master student at USP
   email: yuri.abuchaim@gmail.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: <a href="https://orcid.org/0000-0002-6838-2178">ORCID</a>
   education2:
   education3:
   education4:
