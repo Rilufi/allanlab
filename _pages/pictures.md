@@ -11,7 +11,7 @@ Jump to: [Reuniões](#reuniões)
 
 ## Reuniões
 
-#### Felizes e Contentes nas reuniões semanais no IAG
+#### Felizes e Contentes nas reuniões semanais
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
