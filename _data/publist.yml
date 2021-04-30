@@ -7,3 +7,23 @@
     display:  arXiv:2011.08305
   highlight: 1
   news2:
+
+- title: "Targeting Bright Metal-poor Stars in the Disk and Halo Systems of the Galaxy"
+  image: paper_gui.png
+  description: We present the results of spectroscopic follow-up for 1897 low-metallicity star candidates, selected from the Best & Brightest (B&B) Survey, carried out with the GMOS-N/S (Gemini North/South telescopes) and Goodman (SOAR Telescope) spectrographs.
+  authors: Guilherme Limberg, Rafael M. Santucci, Silvia Rossi, Derek Shank, Vinicius M. Placco, Timothy C. Beers, Kevin C. Schlaufman, et al.
+  link:
+    url: https://arxiv.org/abs/2103.07621
+    display:  arXiv:2103.07621
+  highlight: 1
+  news2:
+
+- title: "Searching for Extragalactic Exoplanetary Systems: the Curious Case of BD+20 2457"
+  image: paper_helio.png
+  description:  In this Letter, we investigate the origin of known planet-host stars combining data from the NASA Exoplanet Archive with Gaia EDR3 and large-scale spectroscopic surveys. 
+  authors: Helio D. Perottoni, Joao A. S. Amarante, Guilherme Limberg, H. J. Rocha-Pinto, Silvia Rossi, Friedrich Anders, Lais Borbolato Soares
+  link:
+    url: https://arxiv.org/abs/2104.08306
+    display:  arXiv:2104.08306
+  highlight: 1
+  news2:
