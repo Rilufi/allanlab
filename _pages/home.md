@@ -8,7 +8,7 @@ permalink: /
 <div style="text-align: justify">
 
 
-<img align="right"  width="500" height="500" src="/images/logopic/Galactic_Archaeology.jpeg">
+<img align="center"  width="500" height="500" src="/images/logopic/Galactic_Archaeology.jpeg">
 We are a research group at the [Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP](https://www.iag.usp.br/). Our aim is to explore and understand the history of formation of our Galaxy.
 
 From the dynamical and chemical properties of the stars we can rebuild the history of formation of the Milky Way. For more information on why and how see [Research](research) or you can also check our [Publications](publications).
